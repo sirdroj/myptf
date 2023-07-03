@@ -1,0 +1,39 @@
+.nav-div{
+  margin-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+   
+}
+nav{ 
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-image: 
+      linear-gradient(
+        to right, 
+        rgb(0, 0, 0), 
+        rgb(255, 255, 255),
+        rgb(0, 0, 0)
+      )100% 2 ;
+}
+a{
+    /* margin: 10px; */
+    font-family: url("../others/fonts/TT\ Chocolates\ Light.otf");
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-size: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    color: antiquewhite;
+    text-decoration: none;
+}
+a:hover{
+  color: red;
+
+}
+@font-face {
+    font-family: 'Tt chocolates trl light';
+    src: url("../others/fonts/TT\ Chocolates\ Light.otf") format('truetype'); /* Adjust the font file path and format as needed */
+  }
