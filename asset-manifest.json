@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myptf/static/css/main.578f3a33.css",
+    "main.js": "/myptf/static/js/main.d274b08d.js",
+    "static/js/787.fcb4b04f.chunk.js": "/myptf/static/js/787.fcb4b04f.chunk.js",
+    "static/media/TT Chocolates DemiBold.otf": "/myptf/static/media/TT Chocolates DemiBold.d54fbdce2126d35ce6cc.otf",
+    "static/media/TT Chocolates Light.otf": "/myptf/static/media/TT Chocolates Light.5186bc16bbb25f7cd5c0.otf",
+    "index.html": "/myptf/index.html",
+    "main.578f3a33.css.map": "/myptf/static/css/main.578f3a33.css.map",
+    "main.d274b08d.js.map": "/myptf/static/js/main.d274b08d.js.map",
+    "787.fcb4b04f.chunk.js.map": "/myptf/static/js/787.fcb4b04f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.578f3a33.css",
+    "static/js/main.d274b08d.js"
+  ]
+}
