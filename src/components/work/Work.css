@@ -1,0 +1,22 @@
+.Work{
+}
+.sec{
+    display: flex;
+    justify-content: space-between;
+
+}
+.work_heading{
+    color:#FFFFFF;
+    font-size: 40px;
+    /* line-height: 44.92px; */
+    font-weight: 816px;
+    margin-bottom: 10px;
+}
+.h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+font-weight: 700;
+font-size: 25px;
+line-height: 28.08px;
+color:#0085FF ;
+}

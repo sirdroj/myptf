@@ -1,0 +1,18 @@
+.footer{
+    margin: 100px;
+    margin-top:50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    .p1{
+        line-height: 24px;
+        font-size: 22px;
+        color:#FF5D29 ;
+    }
+    .p2
+    {
+        color:#0085FF;
+        line-height: 24px;
+        font-size: 22px;
+    }
+}

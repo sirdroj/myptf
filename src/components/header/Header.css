@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400&display=swap');
 .gradient-text {
-    background: linear-gradient(to right, #ff2930, #0060FF);
+    background: #FF5D29;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: 'inline-block';
-    font-family:url("../others/fonts/TT\ Chocolates\ DemiBold.otf");
+    font-family: 'Courier Prime', monospace;
     width:fit-content;
     display: flex;
     font-size: 55px;
@@ -13,12 +14,9 @@
     /* justify-content: center; */
   }
   .top-header{
-    margin: 20px;
-    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    /* width: 100%; */
     display: flex;
     justify-content: center;
-  }
-  @font-face {
-    font-family: 'Tt chocolates trl';
-    src: url("../others/fonts/TT\ Chocolates\ DemiBold.otf") format('truetype'); /* Adjust the font file path and format as needed */
   }
