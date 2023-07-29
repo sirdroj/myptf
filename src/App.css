@@ -2,6 +2,7 @@
 .App {
   /* text-align: center; */
   font-family: 'Courier Prime', monospace;
+  color: white;
 }
 body{
   background: rgb(13, 17, 23);

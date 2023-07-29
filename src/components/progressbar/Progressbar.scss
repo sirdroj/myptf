@@ -1,0 +1,31 @@
+.progressbar{
+width: 20%;
+color: white;
+margin: 2%;
+.bar{
+    display: flex;
+height: 2vh;
+font-size: 22px;
+font-weight: 700;
+line-height: 24.7;
+// border-left: solid;
+border-left-style:dashed;
+border-width: 2px;
+border-radius: 0%;
+width: 100%;
+background-color:rgba(255, 255, 255, 0);
+color: white;
+
+.progress{
+    background-color: #0085FF;
+    height: 100%;
+    // width: 40px;
+}
+.progress2{
+    border: solid;
+border-style:dashed;
+border-width: 2px;
+width:100%;
+}
+}
+}

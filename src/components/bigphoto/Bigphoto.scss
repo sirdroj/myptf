@@ -1,0 +1,22 @@
+.bigphoto{
+    height:45.5vw ;
+    width: 80vw;
+    // margin-left:5vw;
+    margin-top:3vw ;
+    background-size: cover ;
+    background-position-y:-30vh ;
+    background-position-x:0vh ;
+    border-radius: 5vw;
+    padding: 3%;
+    .skills{
+        background-color: rgba(0, 0, 0, 0.786);
+        display: flex;
+        width: 100%;
+        border-radius: 3vw;
+        // margin: 2.5%;
+        // height: 100%;
+        flex-wrap: wrap;
+        position: relative;
+        bottom: -75%;
+    }
+}
