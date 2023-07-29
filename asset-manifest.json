@@ -1,17 +1,28 @@
 {
   "files": {
-    "main.css": "/myptf/static/css/main.578f3a33.css",
-    "main.js": "/myptf/static/js/main.d274b08d.js",
+    "main.css": "/myptf/static/css/main.5c11f84b.css",
+    "main.js": "/myptf/static/js/main.ba5f13d8.js",
     "static/js/787.fcb4b04f.chunk.js": "/myptf/static/js/787.fcb4b04f.chunk.js",
-    "static/media/TT Chocolates DemiBold.otf": "/myptf/static/media/TT Chocolates DemiBold.d54fbdce2126d35ce6cc.otf",
+    "static/media/mypic.jpg": "/myptf/static/media/mypic.61b43d4cdb3ba85392f7.jpg",
+    "static/media/image5.png": "/myptf/static/media/image5.0c4704cd68d9c1cef662.png",
+    "static/media/image3.png": "/myptf/static/media/image3.8f63bab46a0e862d1154.png",
+    "static/media/image4.png": "/myptf/static/media/image4.60589a7fc14755609841.png",
+    "static/media/image2.png": "/myptf/static/media/image2.ae4eddef5555ef918283.png",
     "static/media/TT Chocolates Light.otf": "/myptf/static/media/TT Chocolates Light.5186bc16bbb25f7cd5c0.otf",
+    "static/media/image 9.png": "/myptf/static/media/image 9.4ba57edb764b36fc21cb.png",
+    "static/media/image 7.png": "/myptf/static/media/image 7.2e6edeeb280bd00bbf06.png",
+    "static/media/image 6.png": "/myptf/static/media/image 6.25fea9f40d553a2d5be5.png",
+    "static/media/work1.jpg": "/myptf/static/media/work1.d5086c26aac66f2903eb.jpg",
+    "static/media/image 11.png": "/myptf/static/media/image 11.83d96f5fdbcb68e6dab9.png",
+    "static/media/image 10.png": "/myptf/static/media/image 10.ad48d3456b019f1e441f.png",
+    "static/media/image 8.png": "/myptf/static/media/image 8.420cd7abbce2796d68e0.png",
     "index.html": "/myptf/index.html",
-    "main.578f3a33.css.map": "/myptf/static/css/main.578f3a33.css.map",
-    "main.d274b08d.js.map": "/myptf/static/js/main.d274b08d.js.map",
+    "main.5c11f84b.css.map": "/myptf/static/css/main.5c11f84b.css.map",
+    "main.ba5f13d8.js.map": "/myptf/static/js/main.ba5f13d8.js.map",
     "787.fcb4b04f.chunk.js.map": "/myptf/static/js/787.fcb4b04f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.578f3a33.css",
-    "static/js/main.d274b08d.js"
+    "static/css/main.5c11f84b.css",
+    "static/js/main.ba5f13d8.js"
   ]
 }
