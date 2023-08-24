@@ -11,7 +11,7 @@ import Reach_me from './page/reach me/Reach_me';
 import Resume from './page/Resume/Resume';
 import Contact from './page/Contact/Contact';
 function App() {
-  const [pg, setpg] = useState(3);
+  const [pg, setpg] = useState(1);
 
 
   function MyComponent(option) {
