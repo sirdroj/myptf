@@ -1,6 +1,18 @@
 .home{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 127px;
     margin-bottom: 100px;
+}
+@media (max-width: 768px) {
+    .home{
+        padding: 3px;
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-top: 5rem;
+        margin-bottom: 100px;
+        /* background-color:wheat; */
+    
+    }
+    
 }

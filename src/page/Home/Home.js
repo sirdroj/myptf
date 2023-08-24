@@ -7,7 +7,6 @@ import "./Home.css"
 const Home = () => {
   return (
     <div className='home'>
-      <Profession />
       <Hellow />
       <Work />
     </div>

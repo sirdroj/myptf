@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
 .App {
   /* text-align: center; */
+  transition: all 0.3s ease;
   font-family: 'Courier Prime', monospace;
   color: white;
+  font-size: 22px;
+  @media only screen and (max-width: 480px) {
+    /* styles for devices with a minimum screen width of 480px */
+    font-size: 18px;
+    }
 }
 body{
   background: rgb(13, 17, 23);

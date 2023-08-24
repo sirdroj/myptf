@@ -4,8 +4,11 @@ import "./Hellow.scss";
 const Hellow = () => {
   return (
     <div className="hellow">
+      <div className='profession'>
+        {"<SOFTWERE DEVELOPER"}
+        </div>
       <div className="hellow_text">
-        Hello I am Aman Sharma &lt; He,Him /&gt;
+        Hello I am Aman Sharma &lt;He,Him/&gt;
         {/* <Typed
           strings={["Hello I am Aman Sharma < He,Him />"]}
           typeSpeed={30}
@@ -14,7 +17,7 @@ const Hellow = () => {
       {/* <p className='p1'>Coding is the purpose of my Existence.</p> */}
       <p className="p1">Coding is the purpose of my Existence.</p>
       <p className="p2">
-        I am MAKAUT Pass out looking to solve problems for millions in 0-1/0
+        I am MAKAUT Pass out looking to solve problems for millions in 0 - 1/0
         lines of code.
       </p>
       <p className="p3">

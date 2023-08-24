@@ -13,8 +13,8 @@ import "./Hobbies.scss"
 const Hobbies = () => {
   return (
     <div className='hobbies'>
-        <h1>Here is what I do when I am not working </h1>
-        <div>
+        <h1>Here is what I do when I am not working --&gt; </h1>
+        <div className='imgsec'>
             <h2>Arena</h2>
             <div className='imgs'>
                 <img className='gimg' src={img1} />
@@ -22,13 +22,13 @@ const Hobbies = () => {
                 <img className='gimg' src={img3} />
                 <img className='gimg' src={img4} />
             </div>
-            <h2>Wood Crafting</h2>
+            {/* <h2>Wood Crafting</h2>
             <div className='imgs'>
-                <img src={img1} />
-                <img src={img2} />
-                <img src={img3} />
-                <img src={img4} />
-            </div>
+                <img className='wcimg' src={img1} />
+                <img className='wcimg' src={img2} />
+                <img className='wcimg' src={img3} />
+                <img className='wcimg' src={img4} />
+            </div> */}
             <h2>My Favourite reads of all time</h2>
             <div className='imgs'>
                 <img className='bkimg' src={img6} />

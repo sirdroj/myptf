@@ -1,22 +1,49 @@
-.bigphoto{
-    height:45.5vw ;
-    width: 80vw;
+
+  .bigphoto {
+    height: 45.5vw;
+    width: 100%;
     // margin-left:5vw;
-    margin-top:3vw ;
-    background-size: cover ;
-    background-position-y:-30vh ;
-    background-position-x:0vh ;
+    margin-top: 3vw;
+    background-size: cover;
+    background-position-y: -30vh;
+    background-position-x: 0vh;
     border-radius: 5vw;
     padding: 3%;
-    .skills{
-        background-color: rgba(0, 0, 0, 0.786);
-        display: flex;
-        width: 100%;
-        border-radius: 3vw;
-        // margin: 2.5%;
-        // height: 100%;
-        flex-wrap: wrap;
-        position: relative;
-        bottom: -75%;
+    .skills {
+      background-color: rgba(0, 0, 0, 0.786);
+      display: flex;
+      width: 100%;
+      border-radius: 3vw;
+      // margin: 2.5%;
+      // height: 100%;
+      flex-wrap: wrap;
+      position: relative;
+      bottom: -75%;
     }
+  }
+
+@media (max-width: 768px) {
+  .bigphoto {
+    height: 90vw;
+    width: 100%;
+    // margin-left:5vw;
+    margin-top: 10vw;
+    background-size: cover;
+    background-position-y: 0vh;
+    // background-position-x: 1vh;
+    border-radius: 5vw;
+    padding: 3%;
+    .skills {
+      background-color: rgba(0, 0, 0, 0.786);
+      display: flex;
+      width: 100%;
+      border-radius: 3vw;
+      justify-content: space-around;
+      // margin: 2.5%;
+      // height: 100%;
+      flex-wrap: wrap;
+      position: relative;
+      bottom: -75%;
+    }
+  }
 }

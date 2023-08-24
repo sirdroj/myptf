@@ -1,0 +1,131 @@
+.contact{
+    margin: 5vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    // background-color:aqua;
+    h1,h3{
+        margin-bottom: 3rem;
+    }
+    h1{
+        font-size: 50px;
+        font-weight: 800;
+    }
+    h3{
+        font-size: 40px;
+        font-weight:lighter;
+
+    }
+    .wrapper{
+        display:flex ;
+        justify-content: space-between;
+        .contactform{
+            width:40vw;
+            display: block;
+            input,textarea{
+                // width: 100px;
+                width: 80%;
+                margin-bottom:5%;
+                height:4rem;
+                border-radius: .5rem;
+                background-color: #ffffff37;
+                color: white;
+            }
+            textarea{
+                height: 10rem;
+            }
+        }
+        .links{
+            text-align: center;
+            width: 600px;
+            .icons{
+                margin-top: 10%;
+                margin-bottom: 10%;
+                a{
+                    padding: 0;
+                    margin-left: 2rem;
+                    margin-right: 2rem;
+                svg{
+                    // border-radius: 5px;
+                    margin: 0;
+                    width:41px;
+                    height:41px;
+                    margin-left: 0;
+                    margin-right: 0;
+                    }      
+                }
+
+            }
+        }
+
+    }
+}
+@media(max-width:768px){
+
+    .contact{
+        margin: 5vw;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 7rem;
+        // background-color:aqua;
+        width: 100%;
+        // display: flex;
+        h1,h3{
+            margin-bottom: 3rem;
+        }
+        h1{
+            font-size: 2rem;
+            font-weight: 800;
+        }
+        h3{
+            font-size: 1rem;
+            font-weight:lighter;
+    
+        }
+        .wrapper{
+            display:block ;
+            justify-content: space-between;
+            .contactform{
+                width:90%;
+                display:block;
+                justify-content: center;
+                align-items: center;
+                input,textarea{
+                    // width: 100px;
+                    width: 100%;
+                    margin-bottom:5%;
+                    height:3rem;
+                    border-radius: .5rem;
+                    background-color: #ffffff37;
+                    color: white;
+                    font-size: 1rem;
+                }
+                textarea{
+                    height: 10rem;
+                }
+            }
+            .links{
+                text-align: center;
+                width: 90%;
+                .icons{
+                    margin-top: 10%;
+                    margin-bottom: 10%;
+                    a{
+                        padding: 0;
+                        margin-left: 1rem;
+                        margin-right: 1rem;
+                    svg{
+                        // border-radius: 5px;
+                        margin: 0;
+                        width:21px;
+                        height:31px;
+                        }    
+                    }
+    
+                }
+            }
+    
+        }
+    }
+    
+
+}
