@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myptf/static/css/main.78dc17f9.css",
-    "main.js": "/myptf/static/js/main.5111ed12.js",
+    "main.css": "/myptf/static/css/main.0e35464f.css",
+    "main.js": "/myptf/static/js/main.754782f9.js",
     "static/js/787.fcb4b04f.chunk.js": "/myptf/static/js/787.fcb4b04f.chunk.js",
     "static/media/mypic.jpg": "/myptf/static/media/mypic.61b43d4cdb3ba85392f7.jpg",
     "static/media/image5.png": "/myptf/static/media/image5.0c4704cd68d9c1cef662.png",
@@ -11,21 +11,23 @@
     "static/media/TT Chocolates Light.otf": "/myptf/static/media/TT Chocolates Light.5186bc16bbb25f7cd5c0.otf",
     "static/media/image 9.png": "/myptf/static/media/image 9.4ba57edb764b36fc21cb.png",
     "static/media/image 7.png": "/myptf/static/media/image 7.2e6edeeb280bd00bbf06.png",
+    "static/media/phonebook.png": "/myptf/static/media/phonebook.55bc85cc474588bc1774.png",
     "static/media/image 6.png": "/myptf/static/media/image 6.25fea9f40d553a2d5be5.png",
     "static/media/leetcode.png": "/myptf/static/media/leetcode.0cc900070728a3f2b218.png",
+    "static/media/chat-logo-4.png": "/myptf/static/media/chat-logo-4.8341db718a03acda7145.png",
     "static/media/work1.jpg": "/myptf/static/media/work1.d5086c26aac66f2903eb.jpg",
     "static/media/image 11.png": "/myptf/static/media/image 11.83d96f5fdbcb68e6dab9.png",
     "static/media/image 10.png": "/myptf/static/media/image 10.ad48d3456b019f1e441f.png",
     "static/media/image 8.png": "/myptf/static/media/image 8.420cd7abbce2796d68e0.png",
-    "static/media/chat_app.jpg": "/myptf/static/media/chat_app.2a9ecbc1b18cd2d31577.jpg",
+    "static/media/shoppingapp.jpg": "/myptf/static/media/shoppingapp.f09530c755e146aa382d.jpg",
     "static/media/instagram_1384015.png": "/myptf/static/media/instagram_1384015.ac32ec0a111aeba03298.png",
     "index.html": "/myptf/index.html",
-    "main.78dc17f9.css.map": "/myptf/static/css/main.78dc17f9.css.map",
-    "main.5111ed12.js.map": "/myptf/static/js/main.5111ed12.js.map",
+    "main.0e35464f.css.map": "/myptf/static/css/main.0e35464f.css.map",
+    "main.754782f9.js.map": "/myptf/static/js/main.754782f9.js.map",
     "787.fcb4b04f.chunk.js.map": "/myptf/static/js/787.fcb4b04f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78dc17f9.css",
-    "static/js/main.5111ed12.js"
+    "static/css/main.0e35464f.css",
+    "static/js/main.754782f9.js"
   ]
 }
