@@ -27,16 +27,20 @@
 .work_discription{
     color: #ff5f2900;
     height: 100.5%;
-    width: 100.5%;
+    width:100.5%;
     margin:0;
-    text-align: center;
+    padding: 10%;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
     // transition:0.9s;
     // border-width: 1px;
     // border: solid;
 }
 .work_discription:hover{
     border-radius:0px;
-    // background-color: rgba(0, 0, 0, 0.815);
+    background-color: rgba(0, 0, 0, 0.626);
+    display: flex;
     color:#ff5f29 ;
 }
 
