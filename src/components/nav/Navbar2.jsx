@@ -4,18 +4,13 @@ import Header from "../header/Header";
 const Navbar2 = ({ setpg }) => {
   return (
     <nav class="navbar">
-      {/* <!-- NAVIGATION MENU --> */}
       <Header />
       <ul class="nav-links">
-        {/* <!-- USING CHECKBOX HACK --> */}
-
-        {/* <!-- NAVIGATION MENUS --> */}
         <input type="checkbox" id="checkbox_toggle" />
         <label for="checkbox_toggle" class="hamburger">
           &#9776;
         </label>
         <div class="menu">
-          
           <li
             onClick={() => {
               setpg(1);
